@@ -13,11 +13,11 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> DO IT NOW AND IF ANY DOUBT ASK....</h2>
+      <h2> DoutsE....</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>EmaillLLLLLL</label>
+          <label>Enter the EmailL</label>
         </div>
         <div class="form-control">
           <input type="password" required />
